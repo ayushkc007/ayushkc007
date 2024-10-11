@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush KC</h1>
 <h3 align="center">A passionate backend engineer from Nepal</h3>
+<img align="right" src="kc.png" alt="coding" width="400">
+
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
